@@ -1,6 +1,6 @@
 https://docs.google.com/document/d/1QqHiI-h00MpbysDx3MST_51lyUPYa6Vxagd4MNeo72Q/preview#
 
-## Zepto hiring Coding Challenge
+## React Typescript Coding Challenge
 
 ### Features implemented:
 
