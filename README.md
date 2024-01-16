@@ -1,4 +1,6 @@
-https://docs.google.com/document/d/1QqHiI-h00MpbysDx3MST_51lyUPYa6Vxagd4MNeo72Q/preview#
+### [Click here for Demo Video](https://www.youtube.com/watch?v=fH9oRWZjLZc&ab_channel=gabs)
+
+[Click here for Problem Statement](https://docs.google.com/document/d/1QqHiI-h00MpbysDx3MST_51lyUPYa6Vxagd4MNeo72Q/preview#)
 
 ## React Typescript Coding Challenge
 
